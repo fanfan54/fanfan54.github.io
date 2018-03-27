@@ -1,6 +1,9 @@
-# fanfan54.github.io
+# fanfan54.github.io / francoislefevre.cf 
 
-## My Twitter account: https://twitter.com/Fanfan54T
+## My Twitter account: 
+https://twitter.com/Fanfan54T
+
+## Intro 
 
 My personal bio, and an overview of what I'm working on.
 **HUGE** work in progress! 😅
