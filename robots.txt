@@ -1,0 +1,4 @@
+Sitemap: https://francoislefevre.cf/sitemap.xml
+
+User-agent: *
+Disallow:
